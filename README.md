@@ -10,11 +10,7 @@
    ```
 2. **Run Python Server**:
    ```bash
-   python3 server.py "server-1" "8001"
-   python3 server.py "server-2" "8002"
-   python3 server.py "server-3" "8003"
-   python3 server.py "server-4" "8004"
-   python3 server.py "server-5" "8005"
+   node server.js
     ```
 
 ### Start Load Balancer 
