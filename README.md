@@ -4,18 +4,18 @@
 
 ### Start Multiple Instances of `server.py`
 
-1. **Install Flask**:
+1. **Install Node**:
    ```bash
-   pip install flask
+   brew install node(For MAC)
    ```
-2. **Run Python Server**:
+2. **Run Server**:
    ```bash
    node server.js
     ```
 
 ### Start Load Balancer 
   ```bash
-   go run *.go
+   go run main.go
    ```
 ### Bombard the loadbalancer with requests
    ```bash
