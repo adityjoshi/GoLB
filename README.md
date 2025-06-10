@@ -1,4 +1,4 @@
-# ![hiking](https://github.com/adityjoshi/GoLB/assets/111140014/e3ab8e71-6b9b-462d-8318-c9aa5288dbc4)  A Simple Load Balancer in Golang 
+# ![hiking](https://github.com/adityjoshi/GoLB/assets/111140014/e3ab8e71-6b9b-462d-8318-c9aa5288dbc4)  A Load Balancer in Golang 
 
 ## Running it
 
